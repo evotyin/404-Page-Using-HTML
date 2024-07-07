@@ -1,5 +1,3 @@
-Sure, here's a `README.md` file tailored for your 404 error page project with breaking star animation:
-
 ### `README.md`
 
 ```markdown
@@ -53,5 +51,3 @@ Open the `index.html` file in your web browser to view the 404 error page.
 
 This project is licensed under the MIT License.
 ```
-
-This `README.md` provides a brief overview of your project, installation and usage instructions, the file structure, customization options, and licensing information. Adjust any details as necessary, such as the repository link and additional sections if needed.
