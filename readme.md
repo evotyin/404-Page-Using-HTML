@@ -1,6 +1,5 @@
 ### `README.md`
 
-```markdown
 # 404 Error Page with Breaking Star Animation
 
 This project is a simple 404 error page with a breaking star animation background. The page is built using HTML, CSS, and JavaScript.
@@ -50,4 +49,4 @@ Open the `index.html` file in your web browser to view the 404 error page.
 ## License
 
 This project is licensed under the MIT License.
-```
+
