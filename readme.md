@@ -15,7 +15,7 @@ This project is a simple 404 error page with a breaking star animation backgroun
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/404-error-page.git
+   git clone https://github.com/evotyin/404-Page-Using-HTML.git
    ```
 2. Navigate to the project directory:
    ```bash
