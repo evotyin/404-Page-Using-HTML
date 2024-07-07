@@ -1,4 +1,4 @@
-### `README.md`
+### README.md
 
 # 404 Error Page with Breaking Star Animation
 
